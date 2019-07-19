@@ -1,0 +1,499 @@
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+Mock server is running here: http://127.0.0.1:3034
+
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+npm ERR! code ELIFECYCLE
+npm ERR! errno 130
+npm ERR! ifuture-data-visualization@1.0.0 mock: `nodemon -w ./mock ./mock-server.js`
+npm ERR! Exit status 130
+npm ERR! 
+npm ERR! Failed at the ifuture-data-visualization@1.0.0 mock script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm ERR! npmcodenpm ELIFECYCLE
+npmnpm  npm ERR! code  ELIFECYCLE
+ERR! code ELIFECYCLE
+npm ERR! errnonpm 130
+ERR! code ELIFECYCLE
+ ERR! errnonpm 130
+ ERR! errno 130
+ ERR! errno
+ 130
+npm ERR!ERR! A complete log of this run can be found in:
+ code ELIFECYCLE
+npmnpm ERR! errno 130
+npm ERR! ifuture-data-visualization@1.0.0 mock: `nodemon -w ./mock ./mock-server.js`
+npm ERR! Exit status 130
+npm ERR! 
+npm ERR! Failed at the ifuture-data-visualization@1.0.0 mock script.
+npmnpm  ERR! npmERR! ifuture-data-visualization@1.0.0 mock: `nodemon -w ./mock ./mock-server.js`
+ERR!  This is probably not a problem with npm. There is likely additional logging output above.
+ERR!     /Users/evan/.npm/_logs/2019-03-22T08_53_50_411Z-debug.log
+npm  ifuture-data-visualization@1.0.0 mock: `nodemon -w ./mock ./mock-server.js`
+npmERR!npm  ERR! Exit status 130
+ERR! ifuture-data-visualization@1.0.0 mock: `nodemon -w ./mock ./mock-server.js`
+ npmERR!npm ERR! Exit status 130
+ ifuture-data-visualization@1.0.0 mock: `nodemon -w ./mock ./mock-server.js`
+ Exit status 130
+npmnpm npmERR!  
+R! Exit status 130
+npm  ERR!ERR!ERR!npm 
+ Failed at the ifuture-data-visualization@1.0.0 mock script.
+ 
+ npmnpm RR! npmERR! 
+  This is probably not a problem with npm. There is likely additional logging output above.
+ERR!ERR! Failed at the ifuture-data-visualization@1.0.0 mock script.
+ Failed at the ifuture-data-visualization@1.0.0 mock script.
+npmnpm  ERR!ERR! This is probably not a problem with npm. There is likely additional logging output above.
+ Failed at the ifuture-data-visualization@1.0.0 mock script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+ ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/evan/.npm/_logs/2019-03-22T08_53_50_427Z-debug.log
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/evan/.npm/_logs/2019-03-22T08_53_50_428Z-debug.log
+
+npm ERR!
+ A complete log of this run can be found in:
+npmnpm ERR!  A complete log of this run can be found in:
+ERR!npm      /Users/evan/.npm/_logs/2019-03-22T08_53_50_428Z-debug.log
+ERR!     /Users/evan/.npm/_logs/2019-03-22T08_53_50_429Z-debug.log
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/evan/.npm/_logs/2019-03-22T08_53_50_432Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 130
+npm ERR! ifuture-data-visualization@1.0.0 mock: `nodemon -w ./mock ./mock-server.js`
+npm ERR! Exit status 130
+npm ERR! 
+npm ERR! Failed at the ifuture-data-visualization@1.0.0 mock script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/evan/.npm/_logs/2019-03-22T08_53_50_563Z-debug.log
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+Mock server is running here: http://127.0.0.1:3034
+
+
+> ifuture-data-visualization@1.0.0 mock /Users/evan/work/ifuture-data-visualization
+> nodemon -w ./mock ./mock-server.js
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: /Users/evan/work/ifuture-data-visualization/mock/**/*[39m
+[32m[nodemon] starting `node ./mock-server.js`[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE 0.0.0.0:3034
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at doListen (net.js:1510:7)
+    at _combinedTickCallback (internal/process/next_tick.js:142:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+    at Function.Module.runMain (module.js:696:11)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
